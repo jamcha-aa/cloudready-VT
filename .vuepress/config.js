@@ -24,9 +24,9 @@ module.exports = {
         search: false,
     },
     head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }]
+        ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }]
     ],
     base: '/cloudready-VT/',
-    dest: 'docs',
+    dest: '.vuepress/dist',
     plugins: ['@vuepress/plugin-back-to-top']
 }
