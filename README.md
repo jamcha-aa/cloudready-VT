@@ -20,8 +20,6 @@ Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).
 
 This novel is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed)
 
-![cc by-sa](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-![Built with vi](http://ex-vi.sourceforge.net/pics/vi_logo_by_urmas_reinsalu.png)
+![cc by-sa](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) ![Built with vi](http://ex-vi.sourceforge.net/pics/vi.png) [![Text.app](./article/img/Text-app.png)](http://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg) [![Markdown Viewer](./article/img/icon48.png)](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=ja)
 
 Published with [VuePress](https://vuepress.vuejs.org/)
