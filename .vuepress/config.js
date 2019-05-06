@@ -1,7 +1,7 @@
 const summary = require('./summary.js');
 
 module.exports = {
-    title: '終末のChromeOS',
+    title: '終末のChrome OS',
     description: 'わたしはわたしの友達を最後まで守ります。最後まで。',
     locales: {
         '/': {
