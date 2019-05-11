@@ -24,8 +24,6 @@ This novel is licensed under the [Creative Commons Attribution Share Alike 4.0 I
 
 ![Built with vi](http://ex-vi.sourceforge.net/pics/vi_logo_by_urmas_reinsalu.png) 
 
-[![Text.app](./article/img/Text-app.png)](http://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg) [![Markdown Viewer](./article/img/icon48.png)](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=ja)
-
 [![Build Status](https://travis-ci.org/jamcha-aa/cloudready-VT.svg?branch=master)](https://travis-ci.org/jamcha-aa/cloudready-VT)  
 
 Published with [VuePress](https://vuepress.vuejs.org/)
