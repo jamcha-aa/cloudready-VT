@@ -28,5 +28,5 @@ module.exports = {
     ],
     base: '/cloudready-VT/',
     dest: '.vuepress/dist',
-    plugins: ['@vuepress/plugin-back-to-top']
+    plugins: ['@vuepress/back-to-top']
 }

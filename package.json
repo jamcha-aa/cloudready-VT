@@ -4,6 +4,6 @@
         "docs:build": "vuepress build"
     },
     "devDependencies": {
-        "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47"
+        "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0"
     }
 }
